@@ -74,4 +74,4 @@ GitHub:
 https://github.com/harshavardhanchittapragada-max
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+www.linkedin.com/in/harshavardhanchittapragada
