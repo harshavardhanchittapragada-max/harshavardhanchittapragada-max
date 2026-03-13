@@ -40,7 +40,7 @@ Performed exploratory data analysis on retail sales data to understand product p
 Python, Pandas, Data Analysis
 
 **Repository:**
-(Add your Python sales analysis repo link here)
+https://github.com/harshavardhanchittapragada-max/sql-sales-analysis
 
 ---
 
