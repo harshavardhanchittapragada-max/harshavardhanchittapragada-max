@@ -1,70 +1,69 @@
-
 # Hi, I'm Harsha Vardhan 👋
 
-Aspiring Data Analyst passionate about data analysis, machine learning, and business intelligence.  
+Aspiring Data Analyst passionate about data analysis, business intelligence, and data visualization.
 I enjoy working with data to uncover insights and build dashboards that support decision-making.
 
 ---
 
 ## Skills
 
-- Python
-- SQL
-- Power BI
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn
+* Python
+* SQL
+* Power BI
+* Data Analysis
+* Data Visualization
+* Pandas
+* NumPy
+* Machine Learning Basics
 
 ---
 
 ## Projects
 
 ### Crime Data Analysis
-Analyzed crime data across different states in India to identify trends and patterns.
 
-Tools:
+Analyzed crime data across different states in India to identify trends and patterns related to crimes against women.
+
+**Tools Used:**
 Python, Pandas, Data Analysis
 
-Repository:
+**Repository:**
 https://github.com/harshavardhanchittapragada-max/crime-data-analysis
-
 
 ---
 
-### Breast Cancer Prediction
-Machine learning model to predict breast cancer diagnosis using classification algorithms.
+### Sales Data Analysis (Python)
 
-Tools:
-Python, Scikit-learn, Machine Learning
+Performed exploratory data analysis on retail sales data to understand product performance, revenue distribution, and sales trends.
 
-Repository:
-https://github.com/harshavardhanchittapragada-max/breast-cancer-prediction
+**Tools Used:**
+Python, Pandas, Data Analysis
 
+**Repository:**
+(Add your Python sales analysis repo link here)
 
 ---
 
 ### SQL Sales Analysis
-Used SQL queries to analyze sales data and extract insights about product performance and regional sales.
 
-Tools:
+Used SQL queries to analyze sales data and extract insights such as total sales by region, product performance, and order statistics.
+
+**Tools Used:**
 SQL Server, SQL
 
-Repository:
+**Repository:**
 https://github.com/harshavardhanchittapragada-max/sql-sales-analysis
-
 
 ---
 
 ### Power BI Sales Dashboard
-Interactive dashboard visualizing sales trends, product performance, and regional revenue distribution.
 
-Tools:
+Created an interactive Power BI dashboard to visualize product performance, regional sales distribution, and monthly sales trends.
+
+**Tools Used:**
 Power BI, Data Visualization
 
-Repository:
+**Repository:**
 https://github.com/harshavardhanchittapragada-max/powerbi-sales-dashboard
 
 ---
@@ -75,18 +74,4 @@ GitHub:
 https://github.com/harshavardhanchittapragada-max
 
 LinkedIn:
-(Add your LinkedIn link here)
-<!--
-**harshavardhanchittapragada-max/harshavardhanchittapragada-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(Add your LinkedIn profile link here)
