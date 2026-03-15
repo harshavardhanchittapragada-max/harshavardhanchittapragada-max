@@ -1,77 +1,44 @@
 # Hi, I'm Harsha Vardhan 👋
 
-Aspiring Data Analyst passionate about data analysis, business intelligence, and data visualization.
-I enjoy working with data to uncover insights and build dashboards that support decision-making.
+**Data Analyst** based in Hyderabad, India
+
+I turn raw, messy datasets into clear business insights — using Python, SQL, and Power BI.
+B.Tech CSE fresher (2025) · Open to Data Analyst roles in India and remotely.
 
 ---
 
-## Skills
+## 🔧 What I Work With
 
-* Python
-* SQL
-* Power BI
-* Data Analysis
-* Data Visualization
-* Pandas
-* NumPy
-* Machine Learning Basics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## Projects
+## 📌 Featured Projects
 
-### Crime Data Analysis
+### 🔍 [Crime Against Women in India — Data Analysis](https://github.com/harshavardhanchittapragada-max/crime-data-analysis)
+Analyzed 15+ years of NCRB government data across 35 states. Found that higher literacy correlates with higher *reporting* rates — not higher crime — revealing a key bias in official crime statistics.
+`Python` `Pandas` `Matplotlib` `Seaborn` `EDA`
 
-Analyzed crime data across different states in India to identify trends and patterns related to crimes against women.
-
-**Tools Used:**
-Python, Pandas, Data Analysis
-
-**Repository:**
-https://github.com/harshavardhanchittapragada-max/crime-data-analysis
+### 📊 [End-to-End Sales Analytics](https://github.com/harshavardhanchittapragada-max/sales-data-analysis)
+Full pipeline: raw CSV → Python cleaning (1,200+ nulls handled) → SQL analysis (CTEs, window functions) → Power BI dashboard. Top 3 products drove 58% of revenue.
+`Python` `SQL Server` `Power BI` `Excel` `Pandas`
 
 ---
 
-### Sales Data Analysis (Python)
-
-Performed exploratory data analysis on retail sales data to understand product performance, revenue distribution, and sales trends.
-
-**Tools Used:**
-Python, Pandas, Data Analysis
-
-**Repository:**
-https://github.com/harshavardhanchittapragada-max/sales-data-analysis
+## 📚 Currently Learning
+- Microsoft PL-300 (Power BI Data Analyst Certification)
+- Google Looker Studio
+- Statistics for Data Analysis
 
 ---
 
-### SQL Sales Analysis
+## 📬 Let's Connect
 
-Used SQL queries to analyze sales data and extract insights such as total sales by region, product performance, and order statistics.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshavardhanchittapragada)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshavardhanchittapragada@gmail.com)
 
-**Tools Used:**
-SQL Server, SQL
-
-**Repository:**
-https://github.com/harshavardhanchittapragada-max/sql-sales-analysis
-
----
-
-### Power BI Sales Dashboard
-
-Created an interactive Power BI dashboard to visualize product performance, regional sales distribution, and monthly sales trends.
-
-**Tools Used:**
-Power BI, Data Visualization
-
-**Repository:**
-https://github.com/harshavardhanchittapragada-max/powerbi-sales-dashboard
-
----
-
-## Contact
-
-GitHub:
-https://github.com/harshavardhanchittapragada-max
-
-LinkedIn:
-www.linkedin.com/in/harshavardhanchittapragada
+Open to **Data Analyst**, **Business Analyst**, and **BI Analyst** roles.
